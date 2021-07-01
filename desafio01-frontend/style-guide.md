@@ -1,5 +1,10 @@
 # WWCode Challenges Style Guide
 
+## Useful Resources
+
+https://khaledkzy.github.io/pixel-vh-vw-converter/
+3:54 https://www.youtube.com/watch?v=UCaII0CKnq0
+
 ## Layout
 
 O layout massa que a [Karina Machado](https://br.linkedin.com/in/karinamachado) criou está disponivel no [Figma](https://www.figma.com/file/X4IbpMBNJXoVcYbXfIIeX0/Card---challenge?node-id=0%3A1)
